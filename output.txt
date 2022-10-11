@@ -1,0 +1,1 @@
+This is simple node.js program to represent how to write to a file

@@ -1,0 +1,18 @@
+<html>
+    <head>
+        <title>Javascript functions</title>
+    </head>
+    <body>
+        <button id="button"> press button</button>
+        <script>
+            let b = document.getElementById("button");
+            b.onclick = function(){
+                console.log("Ouch you have pressed me!");
+            };
+            b.addEventListener("click",()=>
+            {
+                console.log("Bye!");
+            });
+        </script>
+    </body>
+    </html>
