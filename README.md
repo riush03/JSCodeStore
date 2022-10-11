@@ -1,0 +1,2 @@
+# JSCodeStore
+Javascript practice codes
